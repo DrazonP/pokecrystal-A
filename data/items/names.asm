@@ -24,7 +24,7 @@ ItemNames::
 	li "Fire Stone"
 	li "ThunderStone"
 	li "Water Stone"
-	li "Teru-Sama"
+	li "Pocket PC"
 	li "Hp Up"
 	li "Protein"
 	li "Iron"
