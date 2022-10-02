@@ -14,6 +14,9 @@ It builds the following ROMs:
 To set up the repository, see [INSTALL.md](INSTALL.md).
 
 Edits
+ball colors tweak
+more berries
+added the pocket pc
 Exp after catch poke
 Kurt makes balls faster
 shiny image viewer press select pokedex
