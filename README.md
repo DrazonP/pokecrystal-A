@@ -14,17 +14,12 @@ It builds the following ROMs:
 To set up the repository, see [INSTALL.md](INSTALL.md).
 
 Edits
-ball colors tweak
-more berries
-added the pocket pc
-Exp after catch poke
-Kurt makes balls faster
-shiny image viewer press select pokedex
-removed sell half price command
-added running shoes
-tweaked some marts
-all decaps 
-infinite tms
+ball colors tweak  more berries picked
+added the pocket pc Exp after catch poke
+Kurt makes balls faster shiny image viewer press select pokedex 
+removed sell half price command added running shoes
+tweaked some marts all decaps 
+infinite tms easy rtc clock reset/password removed
 
 ## See also
 
