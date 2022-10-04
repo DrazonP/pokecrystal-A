@@ -808,5 +808,13 @@ LarvitarEggMoves:
 	db ANCIENTPOWER
 	db -1 ; end
 
+TaillowEggMoves:
+	db MIRROR_MOVE
+	db PURSUIT
+	db RAGE
+	db SKY_ATTACK
+	db SUPERSONIC
+	db -1 ; end	
+
 NoEggMoves:
 	db -1 ; end

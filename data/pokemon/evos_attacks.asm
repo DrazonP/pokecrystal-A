@@ -3358,3 +3358,32 @@ CelebiEvosAttacks:
 	db 40, BATON_PASS
 	db 50, PERISH_SONG
 	db 0 ; no more level-up moves
+	
+TaillowEvosAttacks:
+db EVOLVE_LEVEL, 22, SWELLOW
+	db 0 ; no more evolutions
+	db 1, GROWL
+	db 1, PECK
+	db 5, FOCUS_ENERGY
+	db 9, QUICK_ATTACK
+	db 13, GUST
+	db 17, DOUBLE_TEAM
+	db 26, WING_ATTACK
+	db 34, ENDURE
+	db 43, AGILITY
+	db 0 ; no more level-up moves
+
+SwellowEvosAttacks:
+	db 0 ; no more evolutions
+	db 1, GROWL
+	db 1, PECK
+	db 1, FOCUS_ENERGY
+	db 1, QUICK_ATTACK
+	db 4, FOCUS_ENERGY
+	db 8, QUICK_ATTACK
+	db 13, GUST
+	db 19, DOUBLE_TEAM
+	db 28, WING_ATTACK
+	db 38, ENDURE
+	db 49, AGILITY
+	db 0 ; no more level-up moves	
