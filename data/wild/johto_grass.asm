@@ -577,7 +577,7 @@ JohtoGrassWildMons:
 	db 5, WEEDLE
 	db 7, METAPOD
 	db 7, KAKUNA
-	db 7, PIDGEY
+	db 7, TAILLOW
 	db 6, PARAS
 	db 6, PARAS
 	; nite
@@ -1237,8 +1237,8 @@ JohtoGrassWildMons:
 	def_grass_wildmons ROUTE_29
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 2, TAILLOW
-	db 2, SWELLOW
+	db 2, PIDGEY
+	db 2, SENTRET
 	db 3, PIDGEY
 	db 3, SENTRET
 	db 2, RATTATA
@@ -1246,15 +1246,15 @@ JohtoGrassWildMons:
 	db 3, HOPPIP
 	; day
 	db 2, TAILLOW
-	db 2, SWELLOW
-	db 3, PIDGEY
+	db 2, SENTRET
+	db 3, TAILLOW
 	db 3, SENTRET
 	db 2, RATTATA
 	db 3, HOPPIP
 	db 3, HOPPIP
 	; nite
-	db 2, TAILLOW
-	db 2, SWELLOW
+	db 2, HOOTHOOT
+	db 2, RATTATA
 	db 3, HOOTHOOT
 	db 3, RATTATA
 	db 2, RATTATA
@@ -1273,10 +1273,10 @@ JohtoGrassWildMons:
 	db 4, HOPPIP
 	db 4, HOPPIP
 	; day
-	db 3, PIDGEY
+	db 3, TAILLOW
 	db 3, CATERPIE
 	db 4, CATERPIE
-	db 4, PIDGEY
+	db 4, TAILLOW
 	db 3, WEEDLE
 	db 4, HOPPIP
 	db 4, HOPPIP
@@ -1301,10 +1301,10 @@ JohtoGrassWildMons:
 	db 5, HOPPIP
 	db 5, HOPPIP
 	; day
-	db 4, PIDGEY
+	db 4, TAILLOW
 	db 4, CATERPIE
 	db 5, BELLSPROUT
-	db 5, PIDGEY
+	db 5, TAILLOW
 	db 4, WEEDLE
 	db 5, HOPPIP
 	db 5, HOPPIP
@@ -1333,7 +1333,7 @@ JohtoGrassWildMons:
 	db 5, RATTATA
 	db 7, BELLSPROUT
 	db 6, HOPPIP
-	db 7, PIDGEY
+	db 7, TAILLOW
 	db 7, MAREEP
 	db 7, HOPPIP
 	; nite
@@ -1387,7 +1387,7 @@ JohtoGrassWildMons:
 	; day
 	db 10, SNUBBULL
 	db 11, RATTATA
-	db 12, PIDGEY
+	db 12, TAILLOW
 	db 10, ABRA
 	db 12, JIGGLYPUFF
 	db 10, DITTO
@@ -1414,7 +1414,7 @@ JohtoGrassWildMons:
 	db 12, YANMA
 	; day
 	db 12, SNUBBULL
-	db 14, PIDGEY
+	db 14, TAILLOW
 	db 13, GROWLITHE
 	db 10, ABRA
 	db 12, JIGGLYPUFF
@@ -1442,12 +1442,12 @@ JohtoGrassWildMons:
 	db 6, PIDGEY
 	; day
 	db 4, PIDGEY
-	db 4, PIDGEY
+	db 4, TAILLOW
 	db 5, BELLSPROUT
 	db 5, GROWLITHE
 	db 5, VULPIX
 	db 6, PIDGEY
-	db 6, PIDGEY
+	db 6, TAILLOW
 	; nite
 	db 4, SPINARAK
 	db 4, HOOTHOOT
@@ -1469,13 +1469,13 @@ JohtoGrassWildMons:
 	db 15, LEDIAN
 	db 15, VULPIX
 	; day
-	db 13, PIDGEY
+	db 13, TAILLOW
 	db 14, GROWLITHE
-	db 15, PIDGEY
+	db 15, TAILLOW
 	db 16, GROWLITHE
 	db 15, PIDGEOTTO
 	db 15, VULPIX
-	db 15, PIDGEY
+	db 15, TAILLOW
 	; nite
 	db 13, SPINARAK
 	db 14, STANTLER

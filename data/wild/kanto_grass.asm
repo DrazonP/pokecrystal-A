@@ -181,12 +181,12 @@ KantoGrassWildMons:
 	db 4, PIDGEY
 	db 4, PIDGEY
 	; day
-	db 2, PIDGEY
+	db 2, TAILLOW
 	db 2, RATTATA
 	db 3, SENTRET
 	db 3, PIDGEY
 	db 6, FURRET
-	db 4, PIDGEY
+	db 4, TAILLOW
 	db 4, PIDGEY
 	; nite
 	db 2, HOOTHOOT
@@ -210,7 +210,7 @@ KantoGrassWildMons:
 	db 4, PIKACHU
 	; day
 	db 3, CATERPIE
-	db 3, PIDGEY
+	db 3, TAILLOW
 	db 5, PIDGEY
 	db 7, BUTTERFREE
 	db 7, PIDGEOTTO
@@ -293,7 +293,7 @@ KantoGrassWildMons:
 	db 14, ABRA
 	db 14, ABRA
 	; day
-	db 13, PIDGEY
+	db 13, TAILLOW
 	db 13, SNUBBULL
 	db 15, PIDGEOTTO
 	db 12, ABRA
@@ -547,7 +547,7 @@ KantoGrassWildMons:
 	; day
 	db 23, NIDORINO
 	db 23, NIDORINA
-	db 25, PIDGEOTTO
+	db 25, SWELLOW
 	db 25, HOPPIP
 	db 27, HOPPIP
 	db 27, HOPPIP
@@ -711,7 +711,7 @@ KantoGrassWildMons:
 	db 12, ABRA
 	db 10, BELLSPROUT
 	db 14, BUTTERFREE
-	db 14, BUTTERFREE
+	db 14, BEEDRILL
 	; day
 	db 8, CATERPIE
 	db 12, SUNKERN
@@ -719,7 +719,7 @@ KantoGrassWildMons:
 	db 12, ABRA
 	db 10, BELLSPROUT
 	db 14, BUTTERFREE
-	db 14, BUTTERFREE
+	db 14, BEEDRILL
 	; nite
 	db 10, VENONAT
 	db 10, ODDISH
@@ -747,7 +747,7 @@ KantoGrassWildMons:
 	db 12, METAPOD
 	db 10, BELLSPROUT
 	db 14, BUTTERFREE
-	db 14, BUTTERFREE
+	db 14, BEEDRILL
 	; nite
 	db 10, ODDISH
 	db 10, HOOTHOOT
@@ -831,7 +831,7 @@ KantoGrassWildMons:
 	db 42, ARBOK
 	db 41, DODUO
 	db 43, DODRIO
-	db 43, DODRIO
+	db 43, SWELLOW
 	; nite
 	db 39, TANGELA
 	db 40, POLIWHIRL
