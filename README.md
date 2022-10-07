@@ -20,6 +20,10 @@ Kurt makes balls faster shiny image viewer press select pokedex
 removed sell half price command added running shoes
 tweaked some marts all decaps 
 infinite tms easy rtc clock reset/password removed
+added taillow and swellow 
+decap of text
+enhanced trainer battles
+added a 4th starter pokemon
 
 ## See also
 
