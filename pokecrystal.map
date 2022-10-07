@@ -8440,7 +8440,7 @@ ROMX bank #13:
     SLACK: $011e bytes
 
 ROMX bank #14:
-  SECTION: $4000-$7a6c ($3a6d bytes) ["Enemy Trainers"]
+  SECTION: $4000-$7a78 ($3a79 bytes) ["Enemy Trainers"]
            $4000 = AI_SwitchOrTryItem
            $4032 = AI_SwitchOrTryItem.ok
            $4041 = DontSwitch
@@ -8851,71 +8851,71 @@ ROMX bank #14:
            $5a1f = FalknerGroup
            $5a3b = WhitneyGroup
            $5a51 = BugsyGroup
-           $5a6b = MortyGroup
-           $5a8b = PryceGroup
-           $5aa5 = JasmineGroup
-           $5ac1 = ChuckGroup
-           $5ad5 = ClairGroup
-           $5af5 = Rival1Group
-           $5c57 = PokemonProfGroup
-           $5c57 = WillGroup
-           $5c7c = PKMNTrainerGroup
-           $5ca0 = BrunoGroup
-           $5cc6 = KarenGroup
-           $5cec = KogaGroup
-           $5d11 = ChampionGroup
-           $5d3d = BrockGroup
-           $5d63 = MistyGroup
-           $5d83 = LtSurgeGroup
-           $5dac = ScientistGroup
-           $5de7 = ErikaGroup
-           $5e07 = YoungsterGroup
-           $5eab = SchoolboyGroup
-           $5ff4 = BirdKeeperGroup
-           $60d7 = LassGroup
-           $61d9 = JanineGroup
-           $6200 = CooltrainerMGroup
-           $6355 = CooltrainerFGroup
-           $649a = BeautyGroup
-           $6584 = PokemaniacGroup
-           $662f = GruntMGroup
-           $67bb = GentlemanGroup
-           $67f8 = SkierGroup
-           $6811 = TeacherGroup
-           $6837 = SabrinaGroup
-           $6853 = BugCatcherGroup
-           $695a = FisherGroup
-           $6ad1 = SwimmerMGroup
-           $6bf0 = SwimmerFGroup
-           $6cd5 = SailorGroup
-           $6d88 = SuperNerdGroup
-           $6e30 = Rival2Group
-           $6f20 = GuitaristGroup
-           $6f3c = HikerGroup
-           $7092 = BikerGroup
-           $7107 = BlaineGroup
-           $7122 = BurglarGroup
-           $7155 = FirebreatherGroup
-           $71ad = JugglerGroup
-           $720c = BlackbeltGroup
-           $7296 = ExecutiveMGroup
-           $7308 = PsychicGroup
-           $73be = PicnickerGroup
-           $751e = CamperGroup
-           $7645 = ExecutiveFGroup
-           $7681 = SageGroup
-           $770f = MediumGroup
-           $7766 = BoarderGroup
-           $7790 = PokefanMGroup
-           $7851 = KimonoGirlGroup
-           $788d = TwinsGroup
-           $794d = PokefanFGroup
-           $79a2 = RedGroup
-           $79cc = BlueGroup
-           $79f7 = OfficerGroup
-           $7a0c = GruntFGroup
-           $7a52 = MysticalmanGroup
-    SLACK: $0593 bytes
+           $5a71 = MortyGroup
+           $5a91 = PryceGroup
+           $5aab = JasmineGroup
+           $5ac7 = ChuckGroup
+           $5adb = ClairGroup
+           $5afb = Rival1Group
+           $5c5d = PokemonProfGroup
+           $5c5d = WillGroup
+           $5c82 = PKMNTrainerGroup
+           $5ca6 = BrunoGroup
+           $5ccc = KarenGroup
+           $5cf2 = KogaGroup
+           $5d17 = ChampionGroup
+           $5d43 = BrockGroup
+           $5d69 = MistyGroup
+           $5d89 = LtSurgeGroup
+           $5db2 = ScientistGroup
+           $5ded = ErikaGroup
+           $5e0d = YoungsterGroup
+           $5eb1 = SchoolboyGroup
+           $5ffa = BirdKeeperGroup
+           $60e3 = LassGroup
+           $61e5 = JanineGroup
+           $620c = CooltrainerMGroup
+           $6361 = CooltrainerFGroup
+           $64a6 = BeautyGroup
+           $6590 = PokemaniacGroup
+           $663b = GruntMGroup
+           $67c7 = GentlemanGroup
+           $6804 = SkierGroup
+           $681d = TeacherGroup
+           $6843 = SabrinaGroup
+           $685f = BugCatcherGroup
+           $6966 = FisherGroup
+           $6add = SwimmerMGroup
+           $6bfc = SwimmerFGroup
+           $6ce1 = SailorGroup
+           $6d94 = SuperNerdGroup
+           $6e3c = Rival2Group
+           $6f2c = GuitaristGroup
+           $6f48 = HikerGroup
+           $709e = BikerGroup
+           $7113 = BlaineGroup
+           $712e = BurglarGroup
+           $7161 = FirebreatherGroup
+           $71b9 = JugglerGroup
+           $7218 = BlackbeltGroup
+           $72a2 = ExecutiveMGroup
+           $7314 = PsychicGroup
+           $73ca = PicnickerGroup
+           $752a = CamperGroup
+           $7651 = ExecutiveFGroup
+           $768d = SageGroup
+           $771b = MediumGroup
+           $7772 = BoarderGroup
+           $779c = PokefanMGroup
+           $785d = KimonoGirlGroup
+           $7899 = TwinsGroup
+           $7959 = PokefanFGroup
+           $79ae = RedGroup
+           $79d8 = BlueGroup
+           $7a03 = OfficerGroup
+           $7a18 = GruntFGroup
+           $7a5e = MysticalmanGroup
+    SLACK: $0587 bytes
 
 ROMX bank #15:
   SECTION: $4000-$7e85 ($3e86 bytes) ["Battle Core"]
@@ -58909,7 +58909,7 @@ HRAM bank #0:
 
 USED:
     ROM0: $3edf bytes in 1 bank
-    ROMX: $18afd5 bytes in 127 banks
+    ROMX: $18afe1 bytes in 127 banks
     SRAM: $ac40 bytes in 8 banks
     WRAM0: $0fcb bytes in 1 bank
     WRAMX: $49c8 bytes in 7 banks

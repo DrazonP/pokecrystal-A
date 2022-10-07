@@ -96,7 +96,7 @@ NursePokerusText:
 	line "you anything more"
 
 	para "at a #mon"
-	line "CENTER."
+	line "Center."
 	done
 
 PokeComNursePokerusText:

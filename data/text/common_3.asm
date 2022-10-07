@@ -722,10 +722,10 @@ _SlotsDarnText::
 
 _MobileStadiumEntryText::
 	text "Data for use in"
-	line "the MOBILE STADIUM"
+	line "the Mobile Stadium"
 
 	para "of the N64 #mon"
-	line "STADIUM 2 can be"
+	line "Stadium 2 can be"
 	cont "read here."
 
 	para "Read the data?"
@@ -736,10 +736,10 @@ _MobileStadiumSuccessText::
 	line "complete."
 
 	para "We hope you enjoy"
-	line "MOBILE STADIUM"
+	line "Mobile Stadium"
 
 	para "battles in the N64"
-	line "#mon STADIUM 2."
+	line "#mon Stadium 2."
 
 	para ""
 	done
@@ -915,7 +915,7 @@ _SpaceSpaceColonText:: ; unreferenced
 	done
 
 _PasswordAskResetText::
-	text "Select CONTINUE &"
+	text "Select Continue &"
 	line "reset settings"
 	prompt
 

@@ -45,7 +45,7 @@ _ObtainedFiveFruitText::
 	done
 
 _FruitPackIsFullText::
-	text "But the PACK is"
+	text "But the Pack is"
 	line "full…"
 	done
 
@@ -746,7 +746,7 @@ _PokedexShowText::
 
 _BenIntroText1::
 	text_start
-	line "BEN: #mon Music"
+	line "Ben: #mon Music"
 	done
 
 _BenIntroText2::
@@ -761,7 +761,7 @@ _BenIntroText3::
 
 _FernIntroText1::
 	text_start
-	line "FERN: #Music!"
+	line "Fern: #Music!"
 	done
 
 _FernIntroText2::
@@ -788,19 +788,19 @@ _BenFernText2B::
 
 _BenFernText3A::
 	text_start
-	line "#MON March!"
+	line "#mon March!"
 	done
 
 _BenFernText3B::
 	text_start
-	line "#MON Lullaby!"
+	line "#mon Lullaby!"
 	done
 
 ; Lucky Channel
 
 _LC_Text1::
 	text_start
-	line "REED: Yeehaw! How"
+	line "Reed: Yeehaw! How"
 	done
 
 _LC_Text2::
@@ -870,7 +870,7 @@ _LC_DragText2::
 
 _PnP_Text1::
 	text_start
-	line "PLACES AND PEOPLE!"
+	line "Places and People!"
 	done
 
 _PnP_Text2::
@@ -1041,7 +1041,7 @@ _RocketRadioText10::
 
 _BuenaRadioText1::
 	text_start
-	line "BUENA: Buena here!"
+	line "Buena: Buena here!"
 	done
 
 _BuenaRadioText2::
@@ -1078,7 +1078,7 @@ _BuenaRadioText7::
 
 _BuenaRadioMidnightText1::
 	text_start
-	line "BUENA: Oh my…"
+	line "Buena: Oh my…"
 	done
 
 _BuenaRadioMidnightText2::
@@ -1154,7 +1154,7 @@ _ThatCantBeUsedRightNowText:: ; unreferenced
 
 _ThatItemCantBePutInThePackText:: ; unreferenced
 	text "That item can't be"
-	line "put in the PACK."
+	line "put in the Pack."
 	done
 
 _TheItemWasPutInThePackText:: ; unreferenced
@@ -1162,7 +1162,7 @@ _TheItemWasPutInThePackText:: ; unreferenced
 	text_ram wStringBuffer1
 	text_start
 	line "was put in the"
-	cont "PACK."
+	cont "Pack."
 	done
 
 _RemainingTimeText:: ; unreferenced
@@ -1247,7 +1247,7 @@ _DoesntConcernABoyText:: ; unreferenced
 	done
 
 _TheBoxIsFullText:: ; unreferenced
-	text "The BOX is full!"
+	text "The Box is full!"
 	done
 
 ; Mobile Adapter
@@ -1320,18 +1320,18 @@ _AskFloorElevatorText::
 	done
 
 _BugCatchingContestTimeUpText::
-	text "ANNOUNCER: BEEEP!"
+	text "Announcer: Beeep!"
 
 	para "Time's up!"
 	done
 
 _BugCatchingContestIsOverText::
-	text "ANNOUNCER: The"
+	text "Announcer: The"
 	line "Contest is over!"
 	done
 
 _RepelWoreOffText::
-	text "REPEL's effect"
+	text "Repel's effect"
 	line "wore off."
 	done
 
@@ -1563,7 +1563,7 @@ _NPCTradeAfterText4::
 
 _MomLeavingText1::
 	text "Wow, that's a cute"
-	line "#MON."
+	line "#mon."
 
 	para "Where did you get"
 	line "it?"
@@ -1858,7 +1858,7 @@ _FoundAnEggText::
 	line "we surprised!"
 
 	para "Your #mon had"
-	line "an EGG!"
+	line "an Egg!"
 
 	para "We don't know how"
 	line "it got there, but"
@@ -1869,7 +1869,7 @@ _FoundAnEggText::
 
 _ReceivedEggText::
 	text "<PLAYER> received"
-	line "the EGG!"
+	line "the Egg!"
 	done
 
 _TakeGoodCareOfEggText::

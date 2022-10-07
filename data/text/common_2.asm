@@ -165,11 +165,11 @@ _ComeBackText::
 	done
 
 _BootedTMText::
-	text "Booted up a TM."
+	text "Booted up a Tm."
 	prompt
 
 _BootedHMText::
-	text "Booted up an HM."
+	text "Booted up an Hm."
 	prompt
 
 _ContainedMoveText::
@@ -225,7 +225,7 @@ _MysteryGiftCommErrorText::
 
 _RetrieveMysteryGiftText::
 	text "Must retrieve Gift"
-	line "at #mon CENTER."
+	line "at #mon Center."
 	prompt
 
 _YourFriendIsNotReadyText::
@@ -235,7 +235,7 @@ _YourFriendIsNotReadyText::
 
 _MysteryGiftFiveADayText::
 	text "Sorry--only five"
-	line "GIFTS a day."
+	line "gifts a day."
 	prompt
 
 _MysteryGiftOneADayText::
@@ -305,7 +305,7 @@ _CantUseItemText::
 _UseCutText::
 	text_ram wStringBuffer2
 	text " used"
-	line "CUT!"
+	line "Cut!"
 	prompt
 
 _CutNothingText::
@@ -324,7 +324,7 @@ _BlindingFlashText::
 _UsedSurfText::
 	text_ram wStringBuffer2
 	text " used"
-	line "SURF!"
+	line "Surf!"
 	done
 
 _CantSurfText::
