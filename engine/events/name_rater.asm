@@ -13,10 +13,6 @@ _NameRater:
 	ld a, [wCurPartySpecies]
 	cp EGG
 	jr z, .egg
-; ... or a Pokemon you got from a trade.
-	call GetCurNickname
-	call CheckIfMonIsYourOT
-	jr c, .traded
 ; This name is good, but we can do better.  How about it?
 	ld hl, NameRaterBetterNameText
 	call PrintText

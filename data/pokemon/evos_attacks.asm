@@ -3370,7 +3370,8 @@ db EVOLVE_LEVEL, 22, SWELLOW
 	db 17, DOUBLE_TEAM
 	db 26, WING_ATTACK
 	db 34, ENDURE
-	db 43, AGILITY
+	db 39, AGILITY
+	db 45, SKY_ATTACK
 	db 0 ; no more level-up moves
 
 SwellowEvosAttacks:
@@ -3385,5 +3386,6 @@ SwellowEvosAttacks:
 	db 19, DOUBLE_TEAM
 	db 28, WING_ATTACK
 	db 38, ENDURE
-	db 49, AGILITY
+	db 42, AGILITY
+	db 50, SKY_ATTACK
 	db 0 ; no more level-up moves	

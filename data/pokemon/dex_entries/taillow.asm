@@ -2,9 +2,9 @@
 	dw 100, 51 ; height, weight
 
 	db   "It dislikes cold"
-	next "seasons.They migrate"
-	next "to other lands in"
+	next "seasons.They migr-"
+	next "ate to other lands "
 
-	page "search of warmth"
-	next "flying over 180 "
-	next "miles a day.@"
+	page "in search of war-"
+	next "mth flying over "
+	next "180 miles a day.@"
